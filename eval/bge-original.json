@@ -1,0 +1,1018 @@
+[
+  {
+    "mode": "vector",
+    "filter": true,
+    "n": 32,
+    "p@1": 0.75,
+    "hit@k": 0.9062,
+    "mrr@k": 0.8187,
+    "avg_context_chars": 862.7,
+    "cross_record": 0.0,
+    "unanswerable_count": 6,
+    "answer_quality_evaluated": false,
+    "effective_backends": [
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      }
+    ]
+  },
+  {
+    "mode": "vector",
+    "filter": false,
+    "n": 32,
+    "p@1": 0.75,
+    "hit@k": 0.9062,
+    "mrr@k": 0.8187,
+    "avg_context_chars": 860.2,
+    "cross_record": 0.0312,
+    "unanswerable_count": 6,
+    "answer_quality_evaluated": false,
+    "effective_backends": [
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      }
+    ]
+  },
+  {
+    "mode": "hybrid",
+    "filter": true,
+    "n": 32,
+    "p@1": 0.8125,
+    "hit@k": 1.0,
+    "mrr@k": 0.8734,
+    "avg_context_chars": 833.3,
+    "cross_record": 0.0,
+    "unanswerable_count": 6,
+    "answer_quality_evaluated": false,
+    "effective_backends": [
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      }
+    ]
+  },
+  {
+    "mode": "hybrid",
+    "filter": false,
+    "n": 32,
+    "p@1": 0.8438,
+    "hit@k": 0.9688,
+    "mrr@k": 0.888,
+    "avg_context_chars": 844.7,
+    "cross_record": 0.875,
+    "unanswerable_count": 6,
+    "answer_quality_evaluated": false,
+    "effective_backends": [
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25",
+          "vector"
+        ],
+        "rerank": "",
+        "degraded": ""
+      }
+    ]
+  }
+]

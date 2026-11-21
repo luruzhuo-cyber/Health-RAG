@@ -1,0 +1,22 @@
+[
+  {
+    "mode": "bm25",
+    "filter": true,
+    "n": 32,
+    "p@1": 0.7812,
+    "recall@k": 1.0,
+    "mrr@k": 0.8776,
+    "avg_context_chars": 806.8,
+    "cross_record": 0.0
+  },
+  {
+    "mode": "bm25",
+    "filter": false,
+    "n": 32,
+    "p@1": 0.7188,
+    "recall@k": 1.0,
+    "mrr@k": 0.8333,
+    "avg_context_chars": 821.1,
+    "cross_record": 0.0625
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "mode": "bm25",
+    "filter": true,
+    "n": 8,
+    "p@1": 1.0,
+    "hit@k": 1.0,
+    "mrr@k": 1.0,
+    "avg_context_chars": 28.5,
+    "cross_record": 0.0,
+    "unanswerable_count": 1,
+    "answer_quality_evaluated": false,
+    "effective_backends": [
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      }
+    ]
+  },
+  {
+    "mode": "bm25",
+    "filter": false,
+    "n": 8,
+    "p@1": 0.5,
+    "hit@k": 1.0,
+    "mrr@k": 0.75,
+    "avg_context_chars": 57.0,
+    "cross_record": 1.0,
+    "unanswerable_count": 1,
+    "answer_quality_evaluated": false,
+    "effective_backends": [
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      },
+      {
+        "used": [
+          "bm25"
+        ],
+        "rerank": "",
+        "degraded": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{"q": "演示甲血型是什么", "patient": "演示甲", "answerable": true, "must_contain": ["A 型"]}
+{"q": "演示甲身高是多少", "patient": "演示甲", "answerable": true, "must_contain": ["170"]}
+{"q": "演示甲档案是否虚构", "patient": "演示甲", "answerable": true, "must_contain": ["虚构"]}
+{"q": "演示甲属于什么资料", "patient": "演示甲", "answerable": true, "must_contain": ["学习档案"]}
+{"q": "演示乙血型是什么", "patient": "演示乙", "answerable": true, "must_contain": ["B 型"]}
+{"q": "演示乙身高是多少", "patient": "演示乙", "answerable": true, "must_contain": ["165"]}
+{"q": "演示乙档案是否虚构", "patient": "演示乙", "answerable": true, "must_contain": ["虚构"]}
+{"q": "演示乙属于什么资料", "patient": "演示乙", "answerable": true, "must_contain": ["学习档案"]}
+{"q": "演示甲的电话号码是什么", "patient": "演示甲", "answerable": false, "must_contain": []}

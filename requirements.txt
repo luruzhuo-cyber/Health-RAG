@@ -1,0 +1,15 @@
+pymupdf>=1.24
+jieba>=0.42
+rank-bm25>=0.2.2
+numpy>=1.26
+openai>=1.40
+fastapi>=0.110
+uvicorn[standard]>=0.30
+pydantic>=2.6
+pytest>=8.0
+httpx>=0.27
+# 可选：语义重排（未安装时自动退化为词面重排）
+# sentence-transformers>=3.0
+
+python-dotenv>=1.0
+faiss-cpu>=1.8

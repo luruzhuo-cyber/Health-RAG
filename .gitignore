@@ -221,3 +221,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project private assets
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+.env
+*.log
+eval/questions.jsonl
+private-evidence/
+.env.*
+!.env.example

@@ -1,0 +1,21 @@
+{
+  "vector_loaded": true,
+  "trace": {
+    "patient": "演示甲",
+    "mode": "hybrid",
+    "used": [
+      "bm25",
+      "vector"
+    ],
+    "rerank": "cross-encoder",
+    "degraded": ""
+  },
+  "hits": [
+    {
+      "id": "demo-a",
+      "patient": "演示甲",
+      "text": "演示甲：虚构学习档案，血型 A 型，身高 170 厘米。"
+    }
+  ],
+  "seconds": 11.993232800000442
+}
